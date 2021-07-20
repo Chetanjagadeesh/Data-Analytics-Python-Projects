@@ -1,3 +1,3 @@
 # Data-Analytics-Python-Projects
 
-Mini Projects
+Data Analytics Mini Projects Using python
